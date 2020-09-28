@@ -5,7 +5,7 @@
 # - enthält das Passwort eine Zahl?
 # - enthält das Passwort Grpßbuchstaben?
 # - enthält das Passwort Kleinbuchstaben?
-# - Passwort ist mindestens 6 Zeichen lang
+# - Passwort ist mindestens 5 Zeichen lang
 
 def passwordContainsDigits(password):
     for z in password:
